@@ -1,4 +1,5 @@
 dist
+site_key.txt
 cabal-dev
 *.o
 *.hi
